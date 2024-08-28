@@ -29,9 +29,9 @@
 Cada entrega foi realizada a partir da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 |  | 🚀 Iniciado      |  [ver relatório]() |
-| 02 |  | 🚧 Não iniciada     | [ver relatório]() | 
-| 03 |  | 🚧 Não iniciada     |  [ver relatório]() |
+| 01 | 17/09/2024 | 🚀 Iniciado      |  [ver relatório]() |
+| 02 | 08/10/2024 | 🚧 Não iniciada  | [ver relatório]() | 
+| 03 | 08/11/2024 | 🚧 Não iniciada  |  [ver relatório]() |
 
 
 
@@ -51,24 +51,6 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 ###  Backlogs
 ![banner]() 
 
-<span id="evolução">
-
-
-## 📅 Evolução do projeto:
-
-|    Sprint     | Entrega BackEnd                                  | Entrega FrontEnd                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01  | <a href=" ">  Repositorio Back </a> |  <a href="">  Repositorio Front </a>   |
-| 02  |🚧 Não iniciado |    🚧 Não iniciado  |
-| 03  |🚧 Não iniciado |    🚧 Não iniciado  | 
-
-
-##  Sprint 01:
-
-
-Começamos o projeto com a modelagem do banco de dados, embora esteja sujeita a alterações ao longo do projeto, essa modelagem já representa uma aproximação significativa do que será implementado no produto final.
-
-![banner]() 
 
 
 
@@ -102,8 +84,9 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |   Product Owner    |--  |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()            |
 | Scrum Master  | -- |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()      |
+| Dev Team |  Flavio Eduardo Linguanotto |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://github.com/linguanotto) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://www.linkedin.com/in/flavio-linguanotto-b587361a4/)| 
 | Dev Team |  -- |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()| 
-
-
+| Dev Team |  -- |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()| 
+| Dev Team |  -- |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()| 
     
 → [Voltar ao topo](#topo)
