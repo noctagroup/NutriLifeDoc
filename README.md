@@ -46,7 +46,7 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 ![banner]() 
 
 ###  Epic, User Store
-![banner]() 
+![banner](https://github.com/noctagroup/NutriLifeDoc/blob/main/imagens/user%20store.png) 
 
 ###  Backlogs
 ![banner]() 
