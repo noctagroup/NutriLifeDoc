@@ -1,4 +1,5 @@
 # <span id="topo">
+
 <div align="center">
     
 ![banner](https://github.com/noctagroup/NutriLifeDoc/blob/main/imagens/1.png)
@@ -16,25 +17,20 @@
     
 ## 📑 Sobre o projeto
 
-
-
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
-    
 
-<a href="">📌<strong>Documentação</strong></a>   
+<a href="">📌<strong>Documentação</strong></a>
 
 📌Status do Projeto: **Em andamento** 🚧
 
 ### 🏁 Entregas de Sprints
+
 Cada entrega foi realizada a partir da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
-| Sprint | Previsão de entrega | Status           | Histórico |
+| Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 17/09/2024 | 🚀 Iniciado      |  [ver relatório]() |
-| 02 | 08/10/2024 | 🚧 Não iniciada  | [ver relatório]() | 
-| 03 | 08/11/2024 | 🚧 Não iniciada  |  [ver relatório]() |
-
-
-
+| 01 | 17/09/2024 | 🚀 Iniciado | [ver relatório]() |
+| 02 | 08/10/2024 | 🚧 Não iniciada | [ver relatório]() |
+| 03 | 08/11/2024 | 🚧 Não iniciada | [ver relatório]() |
 
 → [Voltar ao topo](#topo)
 
@@ -42,28 +38,25 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 
 ## 🎯 Backlogs, Épicos & User Stories
 
-###  Requisitos
-![banner]() 
+### Requisitos
 
-###  Epic, User Store
-![banner](https://github.com/noctagroup/NutriLifeDoc/blob/main/imagens/user%20store.png) 
+![banner]()
 
-###  Backlogs
-![banner]() 
+### Epic, User Store
 
+![banner](https://github.com/noctagroup/NutriLifeDoc/blob/main/imagens/user%20store.png)
 
+### Backlogs
 
-
-
+![banner]()
 
 → [Voltar ao topo](#topo)
-    
+
 <span id="tecnologias">
 
 ## 🛠️ Tecnologias
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
-
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -77,15 +70,15 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 
 <span id="equipe">
 
- ## 👥 Equipe  
-    
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   Product Owner    |--  |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()            |
-| Scrum Master  | João Vitor Cabral Procópio  |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](github.com/joaoprocopio) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](linkedin.com/in/joao-procopio)      |
-| Dev Team |  Flavio Eduardo Linguanotto |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://github.com/linguanotto) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://www.linkedin.com/in/flavio-linguanotto-b587361a4/)| 
-| Dev Team |  -- |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()| 
-| Dev Team |  -- |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()| 
-| Dev Team |  -- |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()| 
-    
+## 👥 Equipe
+
+| Integrante                    | Função        | Github                           | LinkedIn                                                          |
+| ----------------------------- | ------------- | -------------------------------- | ----------------------------------------------------------------- |
+| Otavio Abreu dos Santos Silva | Product Owner | https://github.com/otavioabreu27 | https://www.linkedin.com/in/o-abreu/                              |
+| Flavio Eduardo Linguanotto    | Scrum Master  | https://github.com/linguanotto   | https://www.linkedin.com/in/flavio-linguanotto-b587361a4/         |
+| João Vitor Cabral Procópio    | Dev Team      | https://github.com/joaoprocopio  | https://linkedin.com/in/joao-procopio                             |
+| Igor Vinicius Santos Fonseca  | Dev Team      | https://github.com/fonsecaigor   | https://www.linkedin.com/in/igor-fonseca                          |
+| Rafael Estevam de Siqueira    | Dev Team      | https://github.com/rafaelres     | https://www.linkedin.com/in/rafael-estevam-de-siqueira-77891423a/ |
+| Beatriz Roberto Montanini     | Dev Team      | https://github.com/BiaMontanini  | https://www.linkedin.com/in/beatriz-montanini-b69b451b9/          |
+
 → [Voltar ao topo](#topo)
