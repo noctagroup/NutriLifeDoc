@@ -19,18 +19,42 @@
 
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
 
-<a href="">📌<strong>Documentação</strong></a>
-
 📌Status do Projeto: **Em andamento** 🚧
 
-### 🏁 Entregas de Sprints
+### 🏁 Sprints
 
-Cada entrega foi realizada a partir da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
-| Sprint | Previsão de entrega | Status | Histórico |
-|:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 17/09/2024 | 🚀 Iniciado | [ver relatório]() |
-| 02 | 08/10/2024 | 🚧 Não iniciada | [ver relatório]() |
-| 03 | 08/11/2024 | 🚧 Não iniciada | [ver relatório]() |
+Embora o calendário oficial do curso tenha três marcos de entrega principais, nossa equipe concordou em adotar sprints internas menores. Dessa forma, conseguimos mais ciclos para promover a inspeção e adaptação ao longo do desenvolvimento.
+
+| Id Sprint | Data de Inicio | Data de Entrega | Status          |
+| --------- | -------------- | --------------- | --------------- |
+| 1.1       | 02-09-2024     | 06-09-2024      | Iniciada 🚀     |
+| 1.2       | 09-09-2024     | 13-09-2024      | Nao iniciada 🚧 |
+| 1.3       | 16-09-2024     | 20-09-2024      | Nao iniciada 🚧 |
+| 2.1       | 23-09-2024     | 27-09-2024      | Nao iniciada 🚧 |
+| 2.2       | 30-09-2024     | 04-10-2024      | Nao iniciada 🚧 |
+| 2.3       | 07-10-2024     | 11-10-2024      | Nao iniciada 🚧 |
+| 3.1       | 14-10-2024     | 18-10-2024      | Nao iniciada 🚧 |
+| 3.2       | 21-10-2024     | 25-10-2024      | Nao inciada 🚧  |
+| 3.3       | 28-10-2024     | 01-11-2024      | Nao iniciada 🚧 |
+| Final     | 04-11-2024     | 08-11-2024      | Nao iniciada 🚧 |
+
+Ao final de cada Sprint sera gerado uma _TAG_ do Github no repositorio do projeto para que o resultado será transparente.
+
+As _entregas de valor_ propriamente ditas serão realizadas ao final das Sprints `1.3`, `2.3` e `Final`. Estas conterão um conjunto de funcionalidades que está de acordo com o objetivo do produto e reflete um visão do MVP.
+
+→ [Voltar ao topo](#topo)
+
+<span id="tecnologias">
+
+## 🛠️ Tecnologias
+
+As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 → [Voltar ao topo](#topo)
 
@@ -84,22 +108,6 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 | EP-05    | US-10 | Comunicação com Pulseira Inteligente | Como um usuário, eu quero que as calorias contabilizadas pela minha pulseira inteligente sejam debitadas do meu gasto calórico diário automaticamente.                                                                    |
 | EP-05    | US-11 | Criação de Alarmes com Dieta         | Como um usuário, gostaria que o aplicativo colocasse alarmes que me levassem à minha dieta nas horas estipuladas para a alimentação.                                                                                      |
 | EP-05    | US-12 | Visualização Interativa da Refeição  | Como um usuário, gostaria que durante a refeição eu pudesse gerenciar os alimentos e nutrientes de forma interativa pelo aplicativo com suas funcionalidades de gerenciamento nutricional.                                |
-
-→ [Voltar ao topo](#topo)
-
-<span id="tecnologias">
-
-## 🛠️ Tecnologias
-
-As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 → [Voltar ao topo](#topo)
 
