@@ -21,6 +21,8 @@
 
 📌Status do Projeto: **Em andamento** 🚧
 
+> Acompanhe `STATUS ATUAL` do projeto no [BOARD](https://sugary-bus-24b.notion.site/Tarefas-c050a0f8121e4b9c90f5bc0408bb54ec)
+
 ### 🏁 Sprints
 
 Embora o calendário oficial do curso tenha três marcos de entrega principais, nossa equipe concordou em adotar sprints internas menores. Dessa forma, conseguimos mais ciclos para promover a inspeção e adaptação ao longo do desenvolvimento.
