@@ -3,8 +3,11 @@
 ## Informações Gerais
 
 **Data de Início:** 02/set/2024
+
 **Data de Término:** 06/set/2024
+
 **Task Points Totais:** 167
+
 **Task Points Realizadas:** N/A
 
 ## Logs
