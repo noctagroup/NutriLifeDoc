@@ -27,18 +27,20 @@
 
 Embora o calendário oficial do curso tenha três marcos de entrega principais, nossa equipe concordou em adotar sprints internas menores. Dessa forma, conseguimos mais ciclos para promover a inspeção e adaptação ao longo do desenvolvimento.
 
-| Id Sprint | Data de Inicio | Data de Entrega | Status          |
-| --------- | -------------- | --------------- | --------------- |
-| 1.1       | 02-09-2024     | 06-09-2024      | Iniciada 🚀     |
-| 1.2       | 09-09-2024     | 13-09-2024      | Nao iniciada 🚧 |
-| 1.3       | 16-09-2024     | 20-09-2024      | Nao iniciada 🚧 |
-| 2.1       | 23-09-2024     | 27-09-2024      | Nao iniciada 🚧 |
-| 2.2       | 30-09-2024     | 04-10-2024      | Nao iniciada 🚧 |
-| 2.3       | 07-10-2024     | 11-10-2024      | Nao iniciada 🚧 |
-| 3.1       | 14-10-2024     | 18-10-2024      | Nao iniciada 🚧 |
-| 3.2       | 21-10-2024     | 25-10-2024      | Nao inciada 🚧  |
-| 3.3       | 28-10-2024     | 01-11-2024      | Nao iniciada 🚧 |
-| Final     | 04-11-2024     | 08-11-2024      | Nao iniciada 🚧 |
+> Clique no ID da Sprint para ver a documentação da mesma
+
+| Id Sprint                                                                | Data de Inicio | Data de Entrega | Status          |
+| ------------------------------------------------------------------------ | -------------- | --------------- | --------------- |
+| [1.1](https://github.com/noctagroup/NutriLifeDoc/blob/main/Sprint1_1.md) | 02-09-2024     | 06-09-2024      | Iniciada 🚀     |
+| 1.2                                                                      | 09-09-2024     | 13-09-2024      | Nao iniciada 🚧 |
+| 1.3                                                                      | 16-09-2024     | 20-09-2024      | Nao iniciada 🚧 |
+| 2.1                                                                      | 23-09-2024     | 27-09-2024      | Nao iniciada 🚧 |
+| 2.2                                                                      | 30-09-2024     | 04-10-2024      | Nao iniciada 🚧 |
+| 2.3                                                                      | 07-10-2024     | 11-10-2024      | Nao iniciada 🚧 |
+| 3.1                                                                      | 14-10-2024     | 18-10-2024      | Nao iniciada 🚧 |
+| 3.2                                                                      | 21-10-2024     | 25-10-2024      | Nao inciada 🚧  |
+| 3.3                                                                      | 28-10-2024     | 01-11-2024      | Nao iniciada 🚧 |
+| Final                                                                    | 04-11-2024     | 08-11-2024      | Nao iniciada 🚧 |
 
 Ao final de cada Sprint sera gerado uma _TAG_ do Github no repositorio do projeto para que o resultado será transparente.
 
