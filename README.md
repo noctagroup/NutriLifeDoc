@@ -53,9 +53,9 @@
         
 ## :rocket: Entregas
 ```
-
+https://youtu.be/Qx6sDuASuHY
 ```
-<a href=""><strong>Assista o video da sprint review clicando aqui </strong></a> 
+<a href="https://youtu.be/Qx6sDuASuHY"><strong>Assista o video da sprint review clicando aqui </strong></a> 
    
 
 → [Voltar ao topo](#topo)    
