@@ -35,7 +35,7 @@
 
 - Nos cartões do Kanban, são apresentadas informações essenciais para otimizar a eficiência do processo de trabalho. Essas informações incluem o nome do responsável pela tarefa, uma descrição detalhada da atividade, sua definição de pronto (DoD - Definition of Done) e critérios de aceitação (DoR - Definition of Ready), além de possíveis comentários do Product Owner após a avaliação da tarefa.
 
-<img src="" /> 
+<img src="https://github.com/noctagroup/NutriLifeDoc/blob/main/imagens/sprint1_1/dor.png" /> 
 
 
 -Também empregamos o gráfico de burndown como uma ferramenta de gestão temporal para nossas entregas. Por meio disso, obtemos uma perspectiva abrangente do projeto, permitindo-nos identificar possíveis pontos de estrangulamento e corrigi-los antes que possam resultar em erros mais significativos.
