@@ -8,7 +8,7 @@
     
 <span id="topo">
 
-<h1 align="center">Sprint 1: 02/09/2024 a 16/09/2024</h1>
+<h1 align="center">Sprint 1: 23-09-2024 a 08-10-2024</h1>
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -20,7 +20,8 @@
 <span id="objetivos">
     
 ## :dart: Objetivos da Sprint
--Cadastro de Anamnese
+-Integração de front-end e back-end
+-Refatoração do codigo
 
 <span id="Resumo do trabalho da equipe">
     
