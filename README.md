@@ -20,8 +20,8 @@
 <span id="objetivos">
     
 ## :dart: Objetivos da Sprint
--Integração de front-end e back-end
--Refatoração do codigo
+- Integração de front-end e back-end
+- Refatoração do codigo
 
 <span id="Resumo do trabalho da equipe">
     
