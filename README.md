@@ -39,7 +39,7 @@
 
 -Também empregamos o gráfico de burndown como uma ferramenta de gestão temporal para nossas entregas. Por meio disso, obtemos uma perspectiva abrangente do projeto, permitindo-nos identificar possíveis pontos de estrangulamento e corrigi-los antes que possam resultar em erros mais significativos.
 
-<img src="" /> 
+<img src="https://github.com/noctagroup/NutriLifeDoc/blob/main/imagens/burndown%20sprint02.png" /> 
 
 
 
