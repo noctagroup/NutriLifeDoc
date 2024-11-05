@@ -37,10 +37,12 @@ Embora o calendário oficial do curso tenha três marcos de entrega principais, 
 | 2.1                                                                      | 23-09-2024     | 27-09-2024      | ✔️ Concluída  |
 | 2.2                                                                      | 30-09-2024     | 04-10-2024      | ✔️ Concluída  |
 | 2.3                                                                      | 07-10-2024     | 11-10-2024      | <a href="https://github.com/noctagroup/NutriLifeDoc/blob/Sprint-02/README.md">Sprint 02 (clica e saiba mais)</a>  |
-| 3.1                                                                      | 14-10-2024     | 18-10-2024      | Nao iniciada 🚧 |
-| 3.2                                                                      | 21-10-2024     | 25-10-2024      | Nao inciada 🚧  |
-| 3.3                                                                      | 28-10-2024     | 01-11-2024      | Nao iniciada 🚧 |
-| Final                                                                    | 04-11-2024     | 08-11-2024      | Nao iniciada 🚧 |
+| 3.1                                                                      | 14-10-2024     | 18-10-2024      | ✔️ Concluída  |
+| 3.2                                                                      | 21-10-2024     | 25-10-2024      | ✔️ Concluída   |
+| 3.3                                                                      | 28-10-2024     | 01-11-2024      | ✔️ Concluída  |
+| Final                                                                    | 04-11-2024     | 08-11-2024      |<a href="https://github.com/noctagroup/NutriLifeDoc/tree/Sprint-03">Sprint 03 (clica e saiba mais)</a> |
+
+
 
 Ao final de cada Sprint sera gerado uma _TAG_ do Github no repositorio do projeto para que o resultado será transparente.
 
