@@ -41,22 +41,9 @@
 
 -Também empregamos o gráfico de burndown como uma ferramenta de gestão temporal para nossas entregas. Por meio disso, obtemos uma perspectiva abrangente do projeto, permitindo-nos identificar possíveis pontos de estrangulamento e corrigi-los antes que possam resultar em erros mais significativos.
 
-<img src="" /> 
+<img src="https://github.com/projetoPDali/Sprint-2/blob/main/Nova%20pasta/burdown.jpg" /> 
 
 
-
-
-
-
-→ [Voltar ao topo](#topo)
-    
-<span id="entregas">
-        
-## :rocket: Entregas
-```
-https://youtu.be/FJ9Eb5xy9S4
-```
-<a href=""><strong>Assista o video da sprint review clicando aqui </strong></a> 
    
 
 → [Voltar ao topo](#topo)    
